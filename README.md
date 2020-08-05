@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Dennis
 
-<!--
-**Cannonb4ll/Cannonb4ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Dennis! This readme is still work in progress.
+ 
+### Projects
+#### [ploi.io](https://ploi.io)
+Server management tool, easily provision your servers and manage sites.
 
-Here are some ideas to get you started:
+#### [LaraBug](https://www.larabug.com)
+Laravel error tracking tool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [Documetator](https://documentator.io)
+With Documentator, you’ll never have to worry about assembling a document again. That’s because Documentator helps you through the process from start to finish.
+
+
